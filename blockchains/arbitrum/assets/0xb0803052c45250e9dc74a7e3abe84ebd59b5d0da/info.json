@@ -4,9 +4,9 @@
   "decimals": 8,
   "description": "MEDYA TOKEN is a project created to enable truly independent media to operate freely and produce content without restrictions, seeking support solely from the public.",
   "website": "https://medyatoken.com",
-  "explorer": "https://arbiscan.io/token/0xb0803052c45250e9dc74a7e3abe84ebd59b5d0da",
+  "explorer": "https://arbiscan.io/token/0x19Bd362cF5d3b7830f7071f6f3b4a4503bD96230",
   "status": "active",
-  "id": "0xb0803052c45250e9dc74a7e3abe84ebd59b5d0da",
+  "id": "0x19Bd362cF5d3b7830f7071f6f3b4a4503bD96230",
   "type": "ERC-20",
   "links": [
     {
@@ -31,3 +31,4 @@
     }
   ]
 }
+
